@@ -1,0 +1,24 @@
+{
+  "name": "Zad_16_03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeoonn55/Zad_16_03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeoonn55/Zad_16_03/issues"
+  },
+  "homepage": "https://github.com/leeoonn55/Zad_16_03#readme",
+  "devDependencies": {
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
